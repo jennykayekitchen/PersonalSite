@@ -98,10 +98,11 @@ h1 {
 }
 
 .resume-text {
-  font-size: 20px;
+  font-size: 26px;
   font-weight: bold;
   text-decoration: none;
   color: #261817;
+  text-align: center;
 }
 
 #projects {
